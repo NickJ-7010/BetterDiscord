@@ -1,10 +1,3 @@
-/**
- * @name Discord Context Icons
- * @version 1.0.0
- * @author NJ7010
- * @description A Discord Theme That Adds Context Icons For A Nice Feel.
-*/
-
 :root {
 	--context-icon-size: 21px;
 	--context-menu-width: inherit;
